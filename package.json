@@ -1,0 +1,25 @@
+{
+  "name": "play-turborepo",
+  "version": "0.0.0",
+  "private": true,
+  "workspaces": [
+    "kiosk",
+    "tv",
+    "Website/src/rendering"
+  ],
+  "scripts": {
+    "build": "turbo run build",
+    "dev": "turbo run dev --parallel",
+    "lint": "turbo run lint",
+    "format": "prettier --write \"**/*.{ts,tsx,md}\""
+  },
+  "devDependencies": {
+    "prettier": "^2.5.1",
+    "turbo": "latest"
+  },
+  "engines": {
+    "npm": ">=7.0.0",
+    "node": ">=14.0.0"
+  },
+  "packageManager": "npm@6.14.13"
+}
