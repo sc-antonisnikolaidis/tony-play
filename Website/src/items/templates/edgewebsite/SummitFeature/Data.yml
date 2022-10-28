@@ -1,0 +1,9 @@
+﻿---
+ID: "0a351b6b-1d1d-4859-8823-23256cabb587"
+Parent: "ccf76f8e-4780-450a-b330-69f8502b140f"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/edgewebsite/SummitFeature/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
