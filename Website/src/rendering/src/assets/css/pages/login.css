@@ -1,0 +1,132 @@
+.account-page-container {
+  @apply relative bg-black bg-gradient-to-l from-black-darkest via-black-dark to-blue-dark h-full py-16 px-3;
+
+  &::after {
+    @apply content-[url('/assets/img/shop/play-medal.png')];
+    @apply absolute bottom-0 left-0 hidden leading-[0px];
+    @apply xl:block;
+    @apply 2xl:left-11;
+  }
+
+  &-content {
+    @apply flex flex-col max-w-[585px] mx-auto;
+    @apply xl:ml-auto xl:mr-20;
+  }
+
+  .logo-link {
+    @apply block mx-auto mb-10;
+
+    img {
+      @apply w-[385px];
+    }
+  }
+
+  .tabs-container {
+    @apply relative mx-auto;
+
+    button {
+      @apply w-32 h-12 bg-gray-dark;
+
+      &.active {
+        @apply relative bg-yellow;
+
+        &::after {
+          @apply content-[''] absolute top-12 left-[50%] h-5 w-5 bg-yellow -translate-x-[50%] -rotate-45 origin-top-left;
+        }
+      }
+    }
+  }
+
+  .form-container {
+    @apply bg-white-dark px-8 pt-12 pb-8;
+
+    form {
+      @apply flex flex-col min-h-[24.75rem];
+    }
+
+    .form-group {
+      @apply relative mb-4;
+    }
+
+    .user-icon,
+    .lock-icon,
+    .envelope-icon {
+      @apply text-gray w-7 h-7 absolute top-[50%] left-2 -translate-y-[50%];
+    }
+
+    .user-icon {
+      @apply left-1;
+    }
+
+    .lock-icon {
+      @apply w-5 h-6;
+    }
+
+    .envelope-icon {
+      @apply w-6 h-5;
+    }
+
+    input:not([type='checkbox']) {
+      @apply block w-full pl-11 py-2 leading-7;
+    }
+
+    ::placeholder {
+      @apply italic text-black-lightest;
+    }
+
+    .login-btn,
+    .signup-btn {
+      @apply block mt-6 mb-6 mx-auto py-1 px-10 bg-yellow rounded;
+    }
+
+    .signup-btn {
+      @apply mb-0 mt-auto;
+    }
+
+    .reset-password-link {
+      @apply block mb-12 text-sm text-blue text-center underline;
+    }
+
+    .login-providers-container {
+      @apply text-center;
+
+      p {
+        @apply text-black-lightest text-sm text-center mb-5;
+      }
+
+      ul {
+        @apply flex gap-1;
+      }
+
+      .login-provider {
+        @apply flex-1 bg-white;
+
+        span {
+          @apply block my-8 font-medium;
+        }
+      }
+    }
+
+    .personalized-offers-container {
+      @apply my-3;
+
+      input[type='checkbox'] {
+        @apply hidden;
+
+        &:checked {
+          + label::before {
+            @apply bg-no-repeat bg-center bg-checkbox-check;
+          }
+        }
+      }
+
+      label {
+        @apply flex items-center text-sm text-black-lightest;
+
+        &::before {
+          @apply content-[''] shrink-0 w-5 h-5 mr-2 bg-yellow;
+        }
+      }
+    }
+  }
+}
