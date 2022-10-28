@@ -1,0 +1,52 @@
+{
+    "namespace": "EdgeWebsite",
+    "references": [ "InitItems" ],
+    "items": {
+        "includes": [
+            {
+                "name": "layouts",
+                "path": "/sitecore/layout/Layouts/Project/edgewebsite"
+            },
+            {
+                "name": "placeholders",
+                "path": "/sitecore/layout/Placeholder Settings/Project/edgewebsite"
+            },
+            {
+                "name": "renderings",
+                "path": "/sitecore/layout/Renderings/Project/edgewebsite"
+            },
+            {
+                "name": "rendering-contents-resolvers",
+                "path": "/sitecore/system/Modules/Layout Service/Rendering Contents Resolvers/Edge Rendering Contents Resolvers"
+            },
+            {
+                "name": "powershell-scripts",
+                "path": "/sitecore/system/Modules/PowerShell/Script Library/SPE/Reporting/Content Reports/Reports/EdgeWebsite"
+            },
+            {
+                "name": "templates",
+                "path": "/sitecore/templates/Project/edgewebsite"
+            },
+            {
+                "name": "content-hub-default-template",
+                "path": "/sitecore/templates/CMP/Content Hub Entity"
+            },
+            {
+                "name": "enable-language-fallback-default",
+                "path": "/sitecore/templates/System/Templates/Sections/Advanced/Advanced/__Enable item fallback"
+            },
+            {
+                "name": "branches",
+                "path": "/sitecore/templates/Branches/Project/edgewebsite"
+            },
+            {
+                "name": "cmp-config",
+                "path": "/sitecore/system/Modules/CMP/Config"
+            },
+            {
+                "name": "demo-workflow",
+                "path": "/sitecore/system/Workflows/Demo Workflow"
+            }
+        ]
+    }
+}
