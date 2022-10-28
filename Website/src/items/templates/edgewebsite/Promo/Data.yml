@@ -1,0 +1,13 @@
+﻿---
+ID: "69c5ae54-bda6-5b26-adc9-b26d14c2e9ff"
+Parent: "77c8aac4-aac3-55b9-810c-896e8f321a12"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/edgewebsite/Promo/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e130372b-1f48-4031-81c8-7c9de8c80dc6"

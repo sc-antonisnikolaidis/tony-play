@@ -1,0 +1,13 @@
+﻿---
+ID: "5bca35c7-8971-4189-9d52-1f367564d458"
+Parent: "52672eed-7aa7-4df1-93e1-c488bc2e0803"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/edgewebsite/ProductCategory/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "70290e80-fe08-40f9-9bbb-a1f130a58d0e"

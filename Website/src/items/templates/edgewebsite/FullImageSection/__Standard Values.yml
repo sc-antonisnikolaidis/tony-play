@@ -1,0 +1,13 @@
+﻿---
+ID: "602c4dc5-5c4e-5e25-afa1-6df5b5359304"
+Parent: "5954b01b-2adb-53d6-85ee-e8408d2cc2a4"
+Template: "5954b01b-2adb-53d6-85ee-e8408d2cc2a4"
+Path: /sitecore/templates/Project/edgewebsite/FullImageSection/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9e57a137-99a1-44e5-807f-d5aa07818cfb"

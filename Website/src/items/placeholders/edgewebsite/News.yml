@@ -1,0 +1,13 @@
+﻿---
+ID: "bdb185e7-81f2-4940-9f81-e8abcf40f103"
+Parent: "b63fe2f1-b5ca-481f-8d7c-cc11bf1dabf8"
+Template: "c3b037a0-46e5-4b67-ac7a-a144b962a56f"
+Path: /sitecore/layout/Placeholder Settings/Project/edgewebsite/News
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "593befa3-4ec8-4b00-969c-25091da1d500"

@@ -1,0 +1,13 @@
+﻿---
+ID: "3a961c6c-8d45-49a8-aeba-72d82e5ceccc"
+Parent: "b63fe2f1-b5ca-481f-8d7c-cc11bf1dabf8"
+Template: "c3b037a0-46e5-4b67-ac7a-a144b962a56f"
+Path: /sitecore/layout/Placeholder Settings/Project/edgewebsite/Sessions
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7b560d4d-16be-4e6c-bad7-e1280522fb95"

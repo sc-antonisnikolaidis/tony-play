@@ -1,0 +1,13 @@
+﻿---
+ID: "35ecbdaf-cb35-4e1b-80a8-82328800674a"
+Parent: "b63fe2f1-b5ca-481f-8d7c-cc11bf1dabf8"
+Template: "c3b037a0-46e5-4b67-ac7a-a144b962a56f"
+Path: /sitecore/layout/Placeholder Settings/Project/edgewebsite/Vendors
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cc8d948a-8dbc-4ee6-b369-6504c46c4f66"
