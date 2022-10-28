@@ -1,0 +1,20 @@
+﻿---
+ID: "3aa7c3c7-872b-4e3f-b1d1-f2109417bcc5"
+Parent: "afb5e96c-39b3-416e-8885-ab22ba684409"
+Template: "f2387810-b5e4-4ccb-a327-60738e440a66"
+Path: /sitecore/content/EdgeWebsite/Data/CMP Data/Activity Type/Hockey
+SharedFields:
+- ID: "9b0343a9-9f69-4e0f-a059-9215bc8fe422"
+  Hint: EntityIdentifier
+  Value: Demo.ActivityType.Hockey
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "744416f5-39e6-4b0a-afe4-7e2d6be69669"
+    - ID: "e6dd8379-422c-41c1-863c-947992df1836"
+      Hint: Name
+      Value: Hockey

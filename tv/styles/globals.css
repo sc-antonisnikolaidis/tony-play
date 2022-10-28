@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+/* 1. Tailwind base styles */
+
+@import 'tailwindcss/base';
+
+/* 2. Our styles */
+
+@import './layout/frame.css';
+@import './layout/navigation.css';
+@import './layout/sessionList.css';
+@import './layout/roomList.css';
+@import './layout/roomDisplay.css';
+@import './layout/scheduleView.css';
+@import './layout/speakerList.css';
+@import './layout/SpeakerDisplay.css';
+
+/* 3. Tailwind components and utilities */
+
+/* Specifically importing after our components to mimic Tailwind v2 file creation */
+
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+body {
+  @apply font-sans;
+}

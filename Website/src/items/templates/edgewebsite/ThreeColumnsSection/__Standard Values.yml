@@ -1,0 +1,13 @@
+﻿---
+ID: "99a561e7-f0a2-55e2-a62b-ea13bae4ec23"
+Parent: "675a1839-6fe8-59a6-a1e4-6ccbdbf2e966"
+Template: "675a1839-6fe8-59a6-a1e4-6ccbdbf2e966"
+Path: /sitecore/templates/Project/edgewebsite/ThreeColumnsSection/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "abfe2296-6a01-487d-b746-33fd29a24c26"

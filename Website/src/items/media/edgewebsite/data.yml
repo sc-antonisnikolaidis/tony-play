@@ -1,0 +1,13 @@
+﻿---
+ID: "c9c956bc-9abf-51ad-839d-eb88ba5988d9"
+Parent: "9edc3238-2407-56a4-a854-fa8bc2919c79"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/edgewebsite/data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9f3322e9-c20c-4d0d-bc4d-262ce692316d"
