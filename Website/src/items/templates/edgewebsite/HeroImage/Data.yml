@@ -1,0 +1,9 @@
+﻿---
+ID: "9bb34ef4-c257-5306-b037-bd10a945259c"
+Parent: "3ee5e476-e843-51f1-a351-d2c3b198475a"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/edgewebsite/HeroImage/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
