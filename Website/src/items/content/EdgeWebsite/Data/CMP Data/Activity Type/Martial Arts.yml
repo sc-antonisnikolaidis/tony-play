@@ -1,0 +1,20 @@
+﻿---
+ID: "12ddad3c-3b2b-499c-b8f5-e89fcfb96a04"
+Parent: "afb5e96c-39b3-416e-8885-ab22ba684409"
+Template: "f2387810-b5e4-4ccb-a327-60738e440a66"
+Path: /sitecore/content/EdgeWebsite/Data/CMP Data/Activity Type/Martial Arts
+SharedFields:
+- ID: "9b0343a9-9f69-4e0f-a059-9215bc8fe422"
+  Hint: EntityIdentifier
+  Value: Demo.ActivityType.MartialArts
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8338ea7c-2cd4-4c16-8f04-f8de5d07805a"
+    - ID: "e6dd8379-422c-41c1-863c-947992df1836"
+      Hint: Name
+      Value: Martial Arts

@@ -1,0 +1,13 @@
+﻿---
+ID: "a988761c-2447-57b7-b0cd-5c72294a9460"
+Parent: "fdf43aad-c5d1-54e4-9909-59bfddc86689"
+Template: "fdf43aad-c5d1-54e4-9909-59bfddc86689"
+Path: /sitecore/templates/Project/edgewebsite/FeaturedSpeakers/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6a9e8379-ab15-46c0-b3bb-85fe89d7119b"
